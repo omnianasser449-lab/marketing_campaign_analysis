@@ -1,0 +1,51 @@
+campaign_id,campaign_name,campaign_type,target_audience,start_date,end_date,budget
+C001,Email Campaign 1,Email,18-24,2024-05-20,2024-06-18,9314
+C002,Social Media Campaign 2,Social Media,18-24,2024-10-06,2024-10-25,15825
+C003,Email Campaign 3,Email,18-24,2024-02-17,2024-03-15,9623
+C004,Influencer Campaign 4,Influencer,55+,2024-01-14,2024-03-03,8515
+C005,Influencer Campaign 5,Influencer,45-54,2024-04-22,2024-06-03,11115
+C006,Email Campaign 6,Email,25-34,2024-08-04,2024-09-08,11105
+C007,Social Media Campaign 7,Social Media,25-34,2024-06-21,2024-07-11,5039
+C008,Display Campaign 8,Display,18-24,2024-07-02,2024-08-07,10667
+C009,Email Campaign 9,Email,45-54,2024-10-01,2024-10-22,14403
+C010,Email Campaign 10,Email,55+,2024-05-30,2024-07-23,13850
+C011,Influencer Campaign 11,Influencer,25-34,2024-02-05,2024-02-21,9467
+C012,Search Campaign 12,Search,18-24,2024-04-29,2024-05-19,14455
+C013,Search Campaign 13,Search,45-54,2024-07-05,2024-07-29,14130
+C014,Search Campaign 14,Search,25-34,2024-05-16,2024-07-13,4339
+C015,Influencer Campaign 15,Influencer,25-34,2024-09-30,2024-11-29,10021
+C016,Social Media Campaign 16,Social Media,45-54,2024-07-13,2024-08-13,9196
+C017,Search Campaign 17,Search,18-24,2024-04-27,2024-05-13,12336
+C018,Display Campaign 18,Display,35-44,2024-02-03,2024-03-01,12311
+C019,Social Media Campaign 19,Social Media,45-54,2024-07-21,2024-09-14,17035
+C020,Social Media Campaign 20,Social Media,35-44,2024-03-12,2024-04-10,19661
+C021,Search Campaign 21,Search,55+,2024-08-07,2024-09-27,15087
+C022,Search Campaign 22,Search,25-34,2024-03-11,2024-04-26,18171
+C023,Email Campaign 23,Email,18-24,2024-02-26,2024-03-20,7242
+C024,Display Campaign 24,Display,55+,2024-02-02,2024-03-11,14504
+C025,Influencer Campaign 25,Influencer,45-54,2024-09-27,2024-10-27,2376
+C026,Email Campaign 26,Email,55+,2024-05-16,2024-07-10,13146
+C027,Email Campaign 27,Email,35-44,2024-08-10,2024-09-03,16867
+C028,Email Campaign 28,Email,35-44,2024-09-13,2024-10-08,18635
+C029,Email Campaign 29,Email,35-44,2024-09-16,2024-11-07,8517
+C030,Social Media Campaign 30,Social Media,35-44,2024-03-23,2024-05-10,19378
+C031,Email Campaign 31,Email,55+,2024-06-14,2024-07-29,2638
+C032,Email Campaign 32,Email,35-44,2024-06-06,2024-07-05,3898
+C033,Social Media Campaign 33,Social Media,55+,2024-02-10,2024-02-29,17924
+C034,Email Campaign 34,Email,55+,2024-03-05,2024-03-27,17574
+C035,Influencer Campaign 35,Influencer,25-34,2024-05-15,2024-07-01,15865
+C036,Social Media Campaign 36,Social Media,55+,2024-04-12,2024-06-10,12214
+C037,Display Campaign 37,Display,35-44,2024-08-12,2024-09-28,16794
+C038,Email Campaign 38,Email,25-34,2024-04-25,2024-05-13,13078
+C039,Email Campaign 39,Email,55+,2024-10-10,2024-11-07,9216
+C040,Email Campaign 40,Email,18-24,2024-01-31,2024-02-28,4208
+C041,Email Campaign 41,Email,35-44,2024-02-06,2024-03-23,9798
+C042,Search Campaign 42,Search,45-54,2024-04-19,2024-06-06,6335
+C043,Influencer Campaign 43,Influencer,55+,2024-08-30,2024-09-28,17498
+C044,Display Campaign 44,Display,25-34,2024-02-18,2024-03-09,16124
+C045,Search Campaign 45,Search,45-54,2024-07-29,2024-09-10,3775
+C046,Email Campaign 46,Email,18-24,2024-07-25,2024-09-23,13118
+C047,Email Campaign 47,Email,25-34,2024-04-08,2024-05-04,19573
+C048,Display Campaign 48,Display,25-34,2024-08-04,2024-08-29,11127
+C049,Display Campaign 49,Display,25-34,2024-02-08,2024-03-21,5208
+C050,Email Campaign 50,Email,55+,2024-01-08,2024-01-27,9745

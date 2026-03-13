@@ -1,0 +1,51 @@
+campaign_id,campaign_name,campaign_type,revenue,rank,performance_flag
+C046,"Email Campaign 46",Email,93575,1,High
+C023,"Email Campaign 23",Email,72450,2,High
+C017,"Search Campaign 17",Search,65822,3,High
+C029,"Email Campaign 29",Email,58544,4,High
+C031,"Email Campaign 31",Email,52927,5,High
+C049,"Display Campaign 49",Display,52770,6,High
+C019,"Social Media Campaign 19","Social Media",49024,7,Mid
+C047,"Email Campaign 47",Email,46724,8,Mid
+C045,"Search Campaign 45",Search,44942,9,Mid
+C038,"Email Campaign 38",Email,44518,10,Mid
+C001,"Email Campaign 1",Email,37673,11,Mid
+C033,"Social Media Campaign 33","Social Media",35063,12,Mid
+C035,"Influencer Campaign 35",Influencer,35018,13,Mid
+C022,"Search Campaign 22",Search,34834,14,Mid
+C040,"Email Campaign 40",Email,33381,15,Mid
+C034,"Email Campaign 34",Email,33226,16,Mid
+C048,"Display Campaign 48",Display,30707,17,Mid
+C016,"Social Media Campaign 16","Social Media",29638,18,Mid
+C026,"Email Campaign 26",Email,29277,19,Mid
+C002,"Social Media Campaign 2","Social Media",27300,20,Mid
+C012,"Search Campaign 12",Search,27216,21,Mid
+C043,"Influencer Campaign 43",Influencer,26563,22,Mid
+C003,"Email Campaign 3",Email,25298,23,Mid
+C039,"Email Campaign 39",Email,25204,24,Mid
+C011,"Influencer Campaign 11",Influencer,24773,25,Mid
+C036,"Social Media Campaign 36","Social Media",24415,26,Mid
+C014,"Search Campaign 14",Search,23198,27,Mid
+C037,"Display Campaign 37",Display,23029,28,Mid
+C018,"Display Campaign 18",Display,20135,29,Mid
+C009,"Email Campaign 9",Email,19533,30,Low
+C050,"Email Campaign 50",Email,19334,31,Low
+C028,"Email Campaign 28",Email,18342,32,Low
+C008,"Display Campaign 8",Display,16673,33,Low
+C005,"Influencer Campaign 5",Influencer,16277,34,Low
+C013,"Search Campaign 13",Search,15631,35,Low
+C025,"Influencer Campaign 25",Influencer,15056,36,Low
+C032,"Email Campaign 32",Email,14451,37,Low
+C006,"Email Campaign 6",Email,13563,38,Low
+C024,"Display Campaign 24",Display,13509,39,Low
+C044,"Display Campaign 44",Display,13352,40,Low
+C015,"Influencer Campaign 15",Influencer,12790,41,Low
+C004,"Influencer Campaign 4",Influencer,12247,42,Low
+C020,"Social Media Campaign 20","Social Media",11551,43,Low
+C042,"Search Campaign 42",Search,10531,44,Low
+C030,"Social Media Campaign 30","Social Media",9790,45,Low
+C007,"Social Media Campaign 7","Social Media",9527,46,Low
+C027,"Email Campaign 27",Email,7924,47,Low
+C021,"Search Campaign 21",Search,5562,48,Low
+C010,"Email Campaign 10",Email,3257,49,Low
+C041,"Email Campaign 41",Email,2277,50,Low
